@@ -9,6 +9,7 @@ for(int i=0;i<=arr.size()-1;i++){
     {
         swap(arr[j],arr[j-1]);
         j--;
+        
     }
     
 }
